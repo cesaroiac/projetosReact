@@ -1,12 +1,13 @@
 import './App.css';
 import Pessoa from './components/Pessoa';
+import Frase from './components/Frase';
 
 function App() {
 
-  const nome = "Yasmin"
-
   return (
     <div className="App">
+      <Frase />
+      <Frase />
       <Pessoa 
         nome="Caio" 
         idade="21" 
