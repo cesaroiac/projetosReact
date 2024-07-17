@@ -42,7 +42,7 @@ O repositório está organizado da seguinte maneira:
 Para clonar o repositório, execute o seguinte comando no seu terminal:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/cesaroiac/nome-do-repositorio.git
 ```
 
 Em seguida, navegue até o diretório do projeto:
