@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Curso de React - Atividades
 
-## Available Scripts
+Este repositório contém todas as atividades que desenvolvi durante o curso de React. Cada atividade está organizada em sua própria branch, totalizando 16 branches, cada uma representando uma atividade específica.
 
-In the project directory, you can run:
+## Índice
 
-### `npm start`
+- [Descrição](#descrição)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Como Clonar o Repositório](#como-clonar-o-repositório)
+- [Navegando pelas Branches](#navegando-pelas-branches)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Contato](#contato)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Descrição
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Este projeto é uma compilação de diversas atividades práticas que realizamos ao longo do curso de React. Cada atividade foi projetada para ensinar e consolidar conceitos importantes do React, incluindo componentes, roteamento, estado, hooks, e muito mais.
 
-### `npm test`
+## Estrutura do Projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O repositório está organizado da seguinte maneira:
 
-### `npm run build`
+- **main**: A branch principal que contém a configuração inicial do projeto.
+- **atividade-3**: Primeiros passos com JSX.
+- **atividade-4**: Componentes no React.
+- **atividade-5**: Trabalhando com Props.
+- **atividade-6**: Inserindo CSS no React.
+- **atividade-7**: Utilizando React Fragments.
+- **atividade-8**: Avançando em Props.
+- **atividade-9**: Eventos no React.
+- **atividade-10**: useState na prática.
+- **atividade-11**: Passar eventos por Props.
+- **atividade-12**: Renderização condicional.
+- **atividade-13**: Renderização de listas.
+- **atividade-14**: Usando State Lift.
+- **atividade-15**: Implementando o React Router.
+- **atividade-16**: Utilizando react Icons.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Como Clonar o Repositório
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Para clonar o repositório, execute o seguinte comando no seu terminal:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
 
-### `npm run eject`
+Em seguida, navegue até o diretório do projeto:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+cd nome-do-repositorio
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Navegando pelas Branches
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Para alternar entre as diferentes atividades, você pode usar o comando `git checkout` seguido do nome da branch. Por exemplo, para acessar a primeira atividade:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+git checkout atividade-3
+```
 
-## Learn More
+Repita este processo para cada atividade, substituindo `atividade-3` pelo nome da branch correspondente, por exemplo.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Tecnologias Utilizadas
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Este projeto utiliza as seguintes tecnologias:
 
-### Code Splitting
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Node.js (para o ambiente de desenvolvimento)
+- React Router (para navegação)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contato
 
-### Analyzing the Bundle Size
+Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- **Nome:** Caio César
+- **Email:** cesaroiac25@gmail.com
+- **LinkedIn:** [cesaroiac](https://www.linkedin.com/in/cesaroiac/)
+- **GitHub:** [cesaroiac](https://github.com/cesaroiac)
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Espero que este projeto seja útil para você e que o aprendizado adquirido durante o curso de React seja aplicável em seus futuros projetos. Agradeço por visitar este repositório!
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
